@@ -1,2 +1,2 @@
 #!/bin/bash
-cat inacta | tail -n -1 >> inacta
+tail -n -1 < inacta >> inacta
