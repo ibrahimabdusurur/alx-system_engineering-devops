@@ -1,2 +1,2 @@
 #!/bin/bash
-sed -n '$p' inacta >> inacta
+tail -n -1 inacta >> inacta
