@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -aFX --format=commas
+ls -mpa
